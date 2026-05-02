@@ -9,6 +9,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-2023.4%2B-orange.svg)](https://portswigger.net/burp)
 
+</div>
+
 ![main1](./screenshots/main1.png)
 
 ![main2](./screenshots/main2.png)
